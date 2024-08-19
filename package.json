@@ -1,5 +1,5 @@
 {
-  "name": "blum-airdrop-bot",
+  "name": "blum-airdrop-bot-2",
   "version": "1.0.0",
   "description": "Automates interactions with the Blum airdrop platform, including claiming rewards, managing farming sessions, completing tasks, and playing games.",
   "main": "index.js",
